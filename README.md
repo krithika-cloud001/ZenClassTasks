@@ -9,3 +9,4 @@ Day 14 - Using Docker and Docker compose, a website was deployed to display basi
 Day 18 - AWS ay 6 Code Commit, Build and Deploy - Deployed a simple nginx application using AWS code commit. Attached screenshots for the same
 Day 28 - Deploy EC2 using Cloud FOrmation Template
 Day 20 - Jenkins Setup - Jenkin was successfully setup and new user and project creation was explored
+Day 22 - Minikube Setup and namespaces
